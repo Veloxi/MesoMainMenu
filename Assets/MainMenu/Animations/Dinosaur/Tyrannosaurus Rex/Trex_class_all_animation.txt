@@ -1,0 +1,29 @@
+walk		0-100
+run		102-162
+walk_backward	164-264
+walk_hurt	266-546
+rotate_left	548-608
+rotate_right	610-670
+
+!!!! anything after this minus 40 !!!
+
+lookUp		712
+lookRight	714
+lookLeft	716
+lookDown	718
+idle		720-840
+idle_action1	842-1322	
+idle_action2	1324-1804		
+attack1		1806-1946	
+attack2		1948-2068
+intimidation1	2070-2190
+intimidation2	2192-2312
+normal_damage	2314-2404
+heavy_damage	2406-2496
+lie_down	2498-2618		
+sleep(loop)	2618-2738
+stand_up	2738-2858
+drinking	2860-3010
+eating		3012-3262
+death1		3264-3394
+death2		3396-3596

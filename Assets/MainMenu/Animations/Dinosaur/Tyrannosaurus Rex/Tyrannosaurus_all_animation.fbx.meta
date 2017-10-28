@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 597ecfc00f8f16343b732a52053d0603
+timeCreated: 1509051943
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: model:Ankle_L
+    100002: model:Ankle_R
+    100004: model:DeformationSystem
+    100006: model:Elbow_L
+    100008: model:Elbow_R
+    100010: model:Eye_L
+    100012: model:Eye_R
+    100014: model:EyeEnd_L
+    100016: model:EyeEnd_R
+    100018: model:Group
+    100020: model:Head_M
+    100022: model:HeadEnd_M
+    100024: model:Hip_L
+    100026: model:Hip_R
+    100028: model:IndexFinger1_L
+    100030: model:IndexFinger1_R
+    100032: model:IndexFinger2_L
+    100034: model:IndexFinger2_R
+    100036: model:IndexFinger3_L
+    100038: model:IndexFinger3_R
+    100040: model:IndexFinger4_L
+    100042: model:IndexFinger4_R
+    100044: model:Jaw_M
+    100046: model:JawEnd_M
+    100048: model:joint4_M
+    100050: model:joint5_M
+    100052: model:joint6_M
+    100054: model:joint7_M
+    100056: model:Knee_L
+    100058: model:Knee_R
+    100060: model:Main
+    100062: model:MiddleFinger1_L
+    100064: model:MiddleFinger1_R
+    100066: model:MiddleFinger2_L
+    100068: model:MiddleFinger2_R
+    100070: model:MiddleFinger3_L
+    100072: model:MiddleFinger3_R
+    100074: model:MiddleFinger4_L
+    100076: model:MiddleFinger4_R
+    100078: model:model:T_rexSue:polySurface1
+    100080: model:Neck5_M
+    100082: model:Root_M
+    100084: model:Rump_L
+    100086: model:Rump_R
+    100088: model:Shoulder_L
+    100090: model:Shoulder_R
+    100092: model:Spine1_M
+    100094: model:Spine2_M
+    100096: model:Spine3_M
+    100098: model:Spine4_M
+    100100: model:Tail0_M
+    100102: model:Tail1_M
+    100104: model:Tail2_M
+    100106: model:Tail3_M
+    100108: model:Tail4_M
+    100110: model:Tail5_M
+    100112: model:Tail6_M
+    100114: model:Toes1_1_L
+    100116: model:Toes1_1_R
+    100118: model:Toes1_2_L
+    100120: model:Toes1_2_R
+    100122: model:Toes1_3_L
+    100124: model:Toes1_3_R
+    100126: model:Toes2_1_L
+    100128: model:Toes2_1_R
+    100130: model:Toes2_2_L
+    100132: model:Toes2_2_R
+    100134: model:Toes2_3_L
+    100136: model:Toes2_3_R
+    100138: model:Toes_L
+    100140: model:Toes_R
+    100142: model:ToesEnd1_L
+    100144: model:ToesEnd1_R
+    100146: model:ToesEnd_L
+    100148: model:ToesEnd_R
+    100150: model:Wrist_L
+    100152: model:Wrist_R
+    100154: //RootNode
+    400000: model:Ankle_L
+    400002: model:Ankle_R
+    400004: model:DeformationSystem
+    400006: model:Elbow_L
+    400008: model:Elbow_R
+    400010: model:Eye_L
+    400012: model:Eye_R
+    400014: model:EyeEnd_L
+    400016: model:EyeEnd_R
+    400018: model:Group
+    400020: model:Head_M
+    400022: model:HeadEnd_M
+    400024: model:Hip_L
+    400026: model:Hip_R
+    400028: model:IndexFinger1_L
+    400030: model:IndexFinger1_R
+    400032: model:IndexFinger2_L
+    400034: model:IndexFinger2_R
+    400036: model:IndexFinger3_L
+    400038: model:IndexFinger3_R
+    400040: model:IndexFinger4_L
+    400042: model:IndexFinger4_R
+    400044: model:Jaw_M
+    400046: model:JawEnd_M
+    400048: model:joint4_M
+    400050: model:joint5_M
+    400052: model:joint6_M
+    400054: model:joint7_M
+    400056: model:Knee_L
+    400058: model:Knee_R
+    400060: model:Main
+    400062: model:MiddleFinger1_L
+    400064: model:MiddleFinger1_R
+    400066: model:MiddleFinger2_L
+    400068: model:MiddleFinger2_R
+    400070: model:MiddleFinger3_L
+    400072: model:MiddleFinger3_R
+    400074: model:MiddleFinger4_L
+    400076: model:MiddleFinger4_R
+    400078: model:model:T_rexSue:polySurface1
+    400080: model:Neck5_M
+    400082: model:Root_M
+    400084: model:Rump_L
+    400086: model:Rump_R
+    400088: model:Shoulder_L
+    400090: model:Shoulder_R
+    400092: model:Spine1_M
+    400094: model:Spine2_M
+    400096: model:Spine3_M
+    400098: model:Spine4_M
+    400100: model:Tail0_M
+    400102: model:Tail1_M
+    400104: model:Tail2_M
+    400106: model:Tail3_M
+    400108: model:Tail4_M
+    400110: model:Tail5_M
+    400112: model:Tail6_M
+    400114: model:Toes1_1_L
+    400116: model:Toes1_1_R
+    400118: model:Toes1_2_L
+    400120: model:Toes1_2_R
+    400122: model:Toes1_3_L
+    400124: model:Toes1_3_R
+    400126: model:Toes2_1_L
+    400128: model:Toes2_1_R
+    400130: model:Toes2_2_L
+    400132: model:Toes2_2_R
+    400134: model:Toes2_3_L
+    400136: model:Toes2_3_R
+    400138: model:Toes_L
+    400140: model:Toes_R
+    400142: model:ToesEnd1_L
+    400144: model:ToesEnd1_R
+    400146: model:ToesEnd_L
+    400148: model:ToesEnd_R
+    400150: model:Wrist_L
+    400152: model:Wrist_R
+    400154: //RootNode
+    4300000: model:model:T_rexSue:polySurface1
+    7400000: trex_walk
+    7400002: Take 001 (1)
+    7400004: trex_idle
+    7400006: trex_idle_action1
+    7400008: trex_idle_action2
+    9500000: //RootNode
+    13700000: model:model:T_rexSue:polySurface1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model_model_lambert2
+    second: {fileID: 2100000, guid: 2233ea0810aab18459adc2a97a412838, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: trex_idle
+      takeName: Take 001
+      firstFrame: 681
+      lastFrame: 800
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: trex_idle_action1
+      takeName: Take 001
+      firstFrame: 802
+      lastFrame: 1282
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: trex_idle_action2
+      takeName: Take 001
+      firstFrame: 1284
+      lastFrame: 1764
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: 6df2da386bde2e74db0d6609e8f51449
+timeCreated: 1509051949
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: eyes_Group2
+    100002: Group1
+    100004: Group3
+    100006: polySurface20_polySurface64
+    100008: polySurface63_polySurface20
+    100010: polySurface6_polySurface10
+    100012: polySurface6_polySurface11
+    100014: polySurface6_polySurface12
+    100016: polySurface6_polySurface13
+    100018: polySurface6_polySurface14
+    100020: polySurface6_polySurface15
+    100022: polySurface6_polySurface16
+    100024: polySurface6_polySurface17
+    100026: polySurface6_polySurface18
+    100028: polySurface6_polySurface19
+    100030: polySurface6_polySurface21
+    100032: polySurface6_polySurface22
+    100034: polySurface6_polySurface23
+    100036: polySurface6_polySurface24
+    100038: polySurface6_polySurface25
+    100040: polySurface6_polySurface26
+    100042: polySurface6_polySurface28
+    100044: polySurface6_polySurface29
+    100046: polySurface6_polySurface30
+    100048: polySurface6_polySurface31
+    100050: polySurface6_polySurface32
+    100052: polySurface6_polySurface33
+    100054: polySurface6_polySurface34
+    100056: polySurface6_polySurface35
+    100058: polySurface6_polySurface36
+    100060: polySurface6_polySurface37
+    100062: polySurface6_polySurface38
+    100064: polySurface6_polySurface39
+    100066: polySurface6_polySurface40
+    100068: polySurface6_polySurface41
+    100070: polySurface6_polySurface42
+    100072: polySurface6_polySurface43
+    100074: polySurface6_polySurface44
+    100076: polySurface6_polySurface45
+    100078: polySurface6_polySurface46
+    100080: polySurface6_polySurface47
+    100082: polySurface6_polySurface48
+    100084: polySurface6_polySurface49
+    100086: polySurface6_polySurface50
+    100088: polySurface6_polySurface51
+    100090: polySurface6_polySurface52
+    100092: polySurface6_polySurface53
+    100094: polySurface6_polySurface54
+    100096: polySurface6_polySurface55
+    100098: polySurface6_polySurface56
+    100100: polySurface6_polySurface57
+    100102: polySurface6_polySurface58
+    100104: polySurface6_polySurface59
+    100106: polySurface6_polySurface60
+    100108: polySurface6_polySurface61
+    100110: polySurface6_polySurface62
+    100112: polySurface6_polySurface8
+    100114: polySurface6_polySurface9
+    100116: polySurface7_polySurface6
+    100118: //RootNode
+    100120: tongue_Group2
+    400000: eyes_Group2
+    400002: Group1
+    400004: Group3
+    400006: polySurface20_polySurface64
+    400008: polySurface63_polySurface20
+    400010: polySurface6_polySurface10
+    400012: polySurface6_polySurface11
+    400014: polySurface6_polySurface12
+    400016: polySurface6_polySurface13
+    400018: polySurface6_polySurface14
+    400020: polySurface6_polySurface15
+    400022: polySurface6_polySurface16
+    400024: polySurface6_polySurface17
+    400026: polySurface6_polySurface18
+    400028: polySurface6_polySurface19
+    400030: polySurface6_polySurface21
+    400032: polySurface6_polySurface22
+    400034: polySurface6_polySurface23
+    400036: polySurface6_polySurface24
+    400038: polySurface6_polySurface25
+    400040: polySurface6_polySurface26
+    400042: polySurface6_polySurface28
+    400044: polySurface6_polySurface29
+    400046: polySurface6_polySurface30
+    400048: polySurface6_polySurface31
+    400050: polySurface6_polySurface32
+    400052: polySurface6_polySurface33
+    400054: polySurface6_polySurface34
+    400056: polySurface6_polySurface35
+    400058: polySurface6_polySurface36
+    400060: polySurface6_polySurface37
+    400062: polySurface6_polySurface38
+    400064: polySurface6_polySurface39
+    400066: polySurface6_polySurface40
+    400068: polySurface6_polySurface41
+    400070: polySurface6_polySurface42
+    400072: polySurface6_polySurface43
+    400074: polySurface6_polySurface44
+    400076: polySurface6_polySurface45
+    400078: polySurface6_polySurface46
+    400080: polySurface6_polySurface47
+    400082: polySurface6_polySurface48
+    400084: polySurface6_polySurface49
+    400086: polySurface6_polySurface50
+    400088: polySurface6_polySurface51
+    400090: polySurface6_polySurface52
+    400092: polySurface6_polySurface53
+    400094: polySurface6_polySurface54
+    400096: polySurface6_polySurface55
+    400098: polySurface6_polySurface56
+    400100: polySurface6_polySurface57
+    400102: polySurface6_polySurface58
+    400104: polySurface6_polySurface59
+    400106: polySurface6_polySurface60
+    400108: polySurface6_polySurface61
+    400110: polySurface6_polySurface62
+    400112: polySurface6_polySurface8
+    400114: polySurface6_polySurface9
+    400116: polySurface7_polySurface6
+    400118: //RootNode
+    400120: tongue_Group2
+    2300000: eyes_Group2
+    2300002: Group1
+    2300004: Group3
+    2300006: polySurface20_polySurface64
+    2300008: polySurface63_polySurface20
+    2300010: polySurface6_polySurface10
+    2300012: polySurface6_polySurface11
+    2300014: polySurface6_polySurface12
+    2300016: polySurface6_polySurface13
+    2300018: polySurface6_polySurface14
+    2300020: polySurface6_polySurface15
+    2300022: polySurface6_polySurface16
+    2300024: polySurface6_polySurface17
+    2300026: polySurface6_polySurface18
+    2300028: polySurface6_polySurface19
+    2300030: polySurface6_polySurface21
+    2300032: polySurface6_polySurface22
+    2300034: polySurface6_polySurface23
+    2300036: polySurface6_polySurface24
+    2300038: polySurface6_polySurface25
+    2300040: polySurface6_polySurface26
+    2300042: polySurface6_polySurface28
+    2300044: polySurface6_polySurface29
+    2300046: polySurface6_polySurface30
+    2300048: polySurface6_polySurface31
+    2300050: polySurface6_polySurface32
+    2300052: polySurface6_polySurface33
+    2300054: polySurface6_polySurface34
+    2300056: polySurface6_polySurface35
+    2300058: polySurface6_polySurface36
+    2300060: polySurface6_polySurface37
+    2300062: polySurface6_polySurface38
+    2300064: polySurface6_polySurface39
+    2300066: polySurface6_polySurface40
+    2300068: polySurface6_polySurface41
+    2300070: polySurface6_polySurface42
+    2300072: polySurface6_polySurface43
+    2300074: polySurface6_polySurface44
+    2300076: polySurface6_polySurface45
+    2300078: polySurface6_polySurface46
+    2300080: polySurface6_polySurface47
+    2300082: polySurface6_polySurface48
+    2300084: polySurface6_polySurface49
+    2300086: polySurface6_polySurface50
+    2300088: polySurface6_polySurface51
+    2300090: polySurface6_polySurface52
+    2300092: polySurface6_polySurface53
+    2300094: polySurface6_polySurface54
+    2300096: polySurface6_polySurface55
+    2300098: polySurface6_polySurface56
+    2300100: polySurface6_polySurface57
+    2300102: polySurface6_polySurface58
+    2300104: polySurface6_polySurface59
+    2300106: polySurface6_polySurface60
+    2300108: polySurface6_polySurface61
+    2300110: polySurface6_polySurface62
+    2300112: polySurface6_polySurface8
+    2300114: polySurface6_polySurface9
+    2300116: polySurface7_polySurface6
+    2300118: tongue_Group2
+    3300000: eyes_Group2
+    3300002: Group1
+    3300004: Group3
+    3300006: polySurface20_polySurface64
+    3300008: polySurface63_polySurface20
+    3300010: polySurface6_polySurface10
+    3300012: polySurface6_polySurface11
+    3300014: polySurface6_polySurface12
+    3300016: polySurface6_polySurface13
+    3300018: polySurface6_polySurface14
+    3300020: polySurface6_polySurface15
+    3300022: polySurface6_polySurface16
+    3300024: polySurface6_polySurface17
+    3300026: polySurface6_polySurface18
+    3300028: polySurface6_polySurface19
+    3300030: polySurface6_polySurface21
+    3300032: polySurface6_polySurface22
+    3300034: polySurface6_polySurface23
+    3300036: polySurface6_polySurface24
+    3300038: polySurface6_polySurface25
+    3300040: polySurface6_polySurface26
+    3300042: polySurface6_polySurface28
+    3300044: polySurface6_polySurface29
+    3300046: polySurface6_polySurface30
+    3300048: polySurface6_polySurface31
+    3300050: polySurface6_polySurface32
+    3300052: polySurface6_polySurface33
+    3300054: polySurface6_polySurface34
+    3300056: polySurface6_polySurface35
+    3300058: polySurface6_polySurface36
+    3300060: polySurface6_polySurface37
+    3300062: polySurface6_polySurface38
+    3300064: polySurface6_polySurface39
+    3300066: polySurface6_polySurface40
+    3300068: polySurface6_polySurface41
+    3300070: polySurface6_polySurface42
+    3300072: polySurface6_polySurface43
+    3300074: polySurface6_polySurface44
+    3300076: polySurface6_polySurface45
+    3300078: polySurface6_polySurface46
+    3300080: polySurface6_polySurface47
+    3300082: polySurface6_polySurface48
+    3300084: polySurface6_polySurface49
+    3300086: polySurface6_polySurface50
+    3300088: polySurface6_polySurface51
+    3300090: polySurface6_polySurface52
+    3300092: polySurface6_polySurface53
+    3300094: polySurface6_polySurface54
+    3300096: polySurface6_polySurface55
+    3300098: polySurface6_polySurface56
+    3300100: polySurface6_polySurface57
+    3300102: polySurface6_polySurface58
+    3300104: polySurface6_polySurface59
+    3300106: polySurface6_polySurface60
+    3300108: polySurface6_polySurface61
+    3300110: polySurface6_polySurface62
+    3300112: polySurface6_polySurface8
+    3300114: polySurface6_polySurface9
+    3300116: polySurface7_polySurface6
+    3300118: tongue_Group2
+    4300000: eyes_Group2
+    4300002: Group1
+    4300004: Group3
+    4300006: polySurface20_polySurface64
+    4300008: polySurface63_polySurface20
+    4300010: polySurface6_polySurface10
+    4300012: polySurface6_polySurface11
+    4300014: polySurface6_polySurface12
+    4300016: polySurface6_polySurface13
+    4300018: polySurface6_polySurface14
+    4300020: polySurface6_polySurface15
+    4300022: polySurface6_polySurface16
+    4300024: polySurface6_polySurface17
+    4300026: polySurface6_polySurface18
+    4300028: polySurface6_polySurface19
+    4300030: polySurface6_polySurface21
+    4300032: polySurface6_polySurface22
+    4300034: polySurface6_polySurface23
+    4300036: polySurface6_polySurface24
+    4300038: polySurface6_polySurface25
+    4300040: polySurface6_polySurface26
+    4300042: polySurface6_polySurface28
+    4300044: polySurface6_polySurface29
+    4300046: polySurface6_polySurface30
+    4300048: polySurface6_polySurface31
+    4300050: polySurface6_polySurface32
+    4300052: polySurface6_polySurface33
+    4300054: polySurface6_polySurface34
+    4300056: polySurface6_polySurface35
+    4300058: polySurface6_polySurface36
+    4300060: polySurface6_polySurface37
+    4300062: polySurface6_polySurface38
+    4300064: polySurface6_polySurface39
+    4300066: polySurface6_polySurface40
+    4300068: polySurface6_polySurface41
+    4300070: polySurface6_polySurface42
+    4300072: polySurface6_polySurface43
+    4300074: polySurface6_polySurface44
+    4300076: polySurface6_polySurface45
+    4300078: polySurface6_polySurface46
+    4300080: polySurface6_polySurface47
+    4300082: polySurface6_polySurface48
+    4300084: polySurface6_polySurface49
+    4300086: polySurface6_polySurface50
+    4300088: polySurface6_polySurface51
+    4300090: polySurface6_polySurface52
+    4300092: polySurface6_polySurface53
+    4300094: polySurface6_polySurface54
+    4300096: polySurface6_polySurface55
+    4300098: polySurface6_polySurface56
+    4300100: polySurface6_polySurface57
+    4300102: polySurface6_polySurface58
+    4300104: polySurface6_polySurface59
+    4300106: polySurface6_polySurface60
+    4300108: polySurface6_polySurface61
+    4300110: polySurface6_polySurface62
+    4300112: polySurface6_polySurface8
+    4300114: polySurface6_polySurface9
+    4300116: polySurface7_polySurface6
+    4300118: tongue_Group2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Group1Mat
+    second: {fileID: 2100000, guid: 3684f8e73071f424d920b3aff58ceb75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Group3Mat
+    second: {fileID: 2100000, guid: e6d95af4663a65841aca719858422ede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyes_Group2Mat
+    second: {fileID: 2100000, guid: dffbf9d2106212342b917f14f72b0b78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface20_polySurface64Mat
+    second: {fileID: 2100000, guid: 1d240aa9d86214847a16aa3b4517470f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface63_polySurface20Mat
+    second: {fileID: 2100000, guid: e02fa3fe7b696d149a0afe8c358e4575, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface10Mat
+    second: {fileID: 2100000, guid: 12b15699242b4194db99a72091127448, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface11Mat
+    second: {fileID: 2100000, guid: e8be4b8e464371a42b40df44013e3cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface12Mat
+    second: {fileID: 2100000, guid: 4aec959bdefacf042b4c64fa41565f55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface13Mat
+    second: {fileID: 2100000, guid: c3e109019e9b843428562c5379c16ac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface14Mat
+    second: {fileID: 2100000, guid: 10c5c0d0a84d40041ae49798b36b0d39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface15Mat
+    second: {fileID: 2100000, guid: 626f54fb33d443746b2c8e2c7836420f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface16Mat
+    second: {fileID: 2100000, guid: 433747c3f44e341498bc15db0f2f135e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface17Mat
+    second: {fileID: 2100000, guid: 4e852aaa823c0f94592d5e5d6f5ad198, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface18Mat
+    second: {fileID: 2100000, guid: 77c90163f4a773c42ae6acad29ad9fff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface19Mat
+    second: {fileID: 2100000, guid: be08aad758a3f9349ac725b64a5e708c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface21Mat
+    second: {fileID: 2100000, guid: c967047bd4815264883dce7a7e54190e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface22Mat
+    second: {fileID: 2100000, guid: 076e3f896f5b42d4ba3e93766309cebf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface23Mat
+    second: {fileID: 2100000, guid: dce258ddbc8eb944880ce8e9b1123092, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface24Mat
+    second: {fileID: 2100000, guid: dc0ae12a4537017409bf5473c3b10abf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface25Mat
+    second: {fileID: 2100000, guid: ac3fb27dc47e6614895240a512f17b0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface26Mat
+    second: {fileID: 2100000, guid: 853fec0deed420c49b4a78e562f960a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface28Mat
+    second: {fileID: 2100000, guid: 3636b7b00071ab642a46c63387d10cf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface29Mat
+    second: {fileID: 2100000, guid: 75048c1a3dfee624d9f781a1b4e3e44b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface30Mat
+    second: {fileID: 2100000, guid: 83c0f45facc7ea94bbc1ceeba0187c88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface31Mat
+    second: {fileID: 2100000, guid: 9c442f4ed7c92eb4cae9f7bd7b88d2e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface32Mat
+    second: {fileID: 2100000, guid: fd9bf4e40e328d94399885f59b75e1f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface33Mat
+    second: {fileID: 2100000, guid: c2fc0e0d7241c33479e796cd7ecc5ff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface34Mat
+    second: {fileID: 2100000, guid: 611d48a26338e06439e475c385b59ec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface35Mat
+    second: {fileID: 2100000, guid: 16fb55fe785aba1418e19d7b33aed0ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface36Mat
+    second: {fileID: 2100000, guid: af78b4415c1eb6c4aa0c2c56a40abdb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface37Mat
+    second: {fileID: 2100000, guid: 59628c1c01dae77449c1724777802987, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface38Mat
+    second: {fileID: 2100000, guid: a122f455dfe97f44496cdc7220a4f44f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface39Mat
+    second: {fileID: 2100000, guid: 44a524908b0a6194bb75faa55b28cd5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface40Mat
+    second: {fileID: 2100000, guid: bd9b803208c1f3f4a9d7f6aad3554df6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface41Mat
+    second: {fileID: 2100000, guid: f0de7aef3d9690644b0c74caf4442442, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface42Mat
+    second: {fileID: 2100000, guid: e25eaafa18e700349ac286e4f4a673f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface43Mat
+    second: {fileID: 2100000, guid: 3f761bccb16b36e439cef40e7cd1b537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface44Mat
+    second: {fileID: 2100000, guid: 1e99e8b4ce6be8740b8454733250508e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface45Mat
+    second: {fileID: 2100000, guid: 38846145ce88bbd4f91f2d060ceaa7c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface46Mat
+    second: {fileID: 2100000, guid: c3322ff21ded03846a5e8ad6c924107e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface47Mat
+    second: {fileID: 2100000, guid: 74e29ae141d1f8d48beca0e36b386e07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface48Mat
+    second: {fileID: 2100000, guid: db8c7b484b981c84c9bd5fcce9fd7794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface49Mat
+    second: {fileID: 2100000, guid: e982cea1a3f76ec4c856ed4f8428981b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface50Mat
+    second: {fileID: 2100000, guid: 2ed0e13aadef4944c9f91c25e1d5d3de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface51Mat
+    second: {fileID: 2100000, guid: 17bc0073aab572d4f850fae48ddf266e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface52Mat
+    second: {fileID: 2100000, guid: f06aadccf1f4d8d4da813cd9c0c826bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface53Mat
+    second: {fileID: 2100000, guid: 0086fcb004bec584eac699bada6fa70e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface54Mat
+    second: {fileID: 2100000, guid: 4e0c529910f5fd948b3f86bdb6a7c257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface55Mat
+    second: {fileID: 2100000, guid: 8e32d944951c4f246987f1275f4cdf68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface56Mat
+    second: {fileID: 2100000, guid: 595e141e3d54c3643bc4bfb37162ef3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface57Mat
+    second: {fileID: 2100000, guid: 04c19f5211c1f3844a8dd86fd606f2ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface58Mat
+    second: {fileID: 2100000, guid: e165451c47f44094ea7203d635600690, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface59Mat
+    second: {fileID: 2100000, guid: 7e94475bcfd45384885553da62a9ef04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface60Mat
+    second: {fileID: 2100000, guid: 32f80d79df451654d81c2d4cf739cec7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface61Mat
+    second: {fileID: 2100000, guid: 60a8bee32f115b4459fd8deb3c62aa86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface62Mat
+    second: {fileID: 2100000, guid: a9b5791f3a24abc409d347b27400a71f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface8Mat
+    second: {fileID: 2100000, guid: 516c0e5a46a28a5498934c351155c611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface6_polySurface9Mat
+    second: {fileID: 2100000, guid: 802f02d6298faf546bbae790632b8514, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface7_polySurface6Mat
+    second: {fileID: 2100000, guid: 55715479e3e084149b6bd9411d9fd9ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tongue_Group2Mat
+    second: {fileID: 2100000, guid: 07373c1ea4c6c8843994703a7324ee80, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
